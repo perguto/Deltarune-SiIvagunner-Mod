@@ -1,7 +1,7 @@
-# Deltarune Siivagunner Mod
-![splash.png](./splash.png)
+# Deltarune SiIvagunner Mod
+![splash.png](./splash.jpg)
 
-A very high quality mod for Deltarune. 
+A very high quality mod for Deltarune, containing EVERY rip from SiIvagunner and Timmy Turner's Grand Dad.
 
 ## How to Use
 
